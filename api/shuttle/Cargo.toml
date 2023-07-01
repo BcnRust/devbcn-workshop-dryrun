@@ -11,3 +11,5 @@ tokio = "1.26.0"
 # database
 shuttle-shared-db = { version = "0.20.0", features = ["postgres"] }
 sqlx = { version = "0.6.3", default-features = false, features = [ "runtime-actix-native-tls", "macros", "postgres", "uuid", "chrono", "json" ] }
+# tracing
+tracing = "0.1"
