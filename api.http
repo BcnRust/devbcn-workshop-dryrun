@@ -1,6 +1,6 @@
 # @host = https://devbcn.shuttleapp.rs
 @host = http://localhost:8000
-@film_id = 11cdba20-1901-11ee-933b-0242ac110002
+@film_id = c5626b78-1904-11ee-b74c-0242ac110002
 
 ### health
 GET {{host}}/health HTTP/1.1
